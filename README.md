@@ -14,7 +14,7 @@ This repository contains the official implementation of the paper **"Geometry-aw
 ![](./abcgs/assets/compositional_fern.jpg) -->
 
 ## Update🔥
-
+- [2025/11/08] [GT²-GS](https://vpx-ecnu.github.io/GT2-GS-website/) accepted by **AAAI 2026**! Code is coming soon!
 - [2025/05/22] We release the paper on [arXiv](https://www.arxiv.org/abs/2505.15208).
 
 
@@ -23,7 +23,7 @@ This repository contains the official implementation of the paper **"Geometry-aw
 <!-- If you find this project useful, please give a star⭐ to this repo and cite our paper: -->
 ```bibtex
 @article{liu2025gt,
-  title={Geometry-aware Texture Transfer for Gaussian Splatting},
+  title={GT\^{} 2-GS: Geometry-aware Texture Transfer for Gaussian Splatting},
   author={Liu, Wenjie and Liu, Zhongliang and Shu, Junwei and Wang, Changbo and Li, Yang},
   journal={arXiv preprint arXiv:2505.15208},
   year={2025}
