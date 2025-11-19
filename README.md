@@ -14,7 +14,7 @@ This repository contains the official implementation of the paper **"Geometry-aw
 ![](./abcgs/assets/compositional_fern.jpg) -->
 
 ## Update🔥
-- [2025/11/08] [GT²-GS](https://vpx-ecnu.github.io/GT2-GS-website/) accepted by **AAAI 2026**! Code is coming soon!
+- [2025/11/08] [GT²-GS](https://vpx-ecnu.github.io/GT2-GS-website/) has been accepted by **AAAI 2026**! Code is coming soon!
 - [2025/05/22] We release the paper on [arXiv](https://www.arxiv.org/abs/2505.15208).
 
 
